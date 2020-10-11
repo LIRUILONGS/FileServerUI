@@ -1,5 +1,5 @@
 <template>
-<div style="width:100%;height:700px">
+<div style="width:100%;height:800px">
 <div id="cesiumContainer"></div>
 </div>
 </template>
@@ -35,6 +35,6 @@ export default {
 <style>
 #cesiumContainer{
   width: 100%;
-  height: 700px;
+  height: 800px;
 }
 </style>
