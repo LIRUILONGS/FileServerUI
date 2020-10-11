@@ -1,3 +1,6 @@
+#Demo 地址：
+http://39.97.241.18:8080/c/index.html#/
+
 # 目录说明
 - build: 打包逻辑，通过npm run build时执行该目录下的build.js
 - config: 配置文件目录
